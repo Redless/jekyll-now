@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Test
+title: Testing
 ---
 
 Definitely going to put something here when the time comes. For now, just this, though.
