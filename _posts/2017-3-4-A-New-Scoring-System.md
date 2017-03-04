@@ -31,7 +31,7 @@ That brings me to another system that I’ve contrived, which I believe has all 
 
 3. Because of the match structure, the game can be designed to challenge the player throughout the match, rather than forcing the player to replay the already-beaten beginning of the game each time they want to play the later parts.
 
-4. Since there's no highscore, there's no question of what to do after the highscore is beaten. Instead, the player can focus on maximizing the expected value of the number of points scored throughout the match, knowing that as long as the game is in progress what they're expected to do is clear.
+4. Due to the lack of highscore, there's no question of what to do after the highscore is beaten. Instead, the player can focus on maximizing the expected value of the number of points scored throughout the match, knowing that as long as the game is in progress what they're expected to do is clear.
 
 ### But what about arcs?
 
