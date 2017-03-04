@@ -3,7 +3,7 @@ layout: post
 title: A New Scoring System
 ---
 
-A tremendous number of videogames, especially in the past, use a “highscore” system to give feedback on how well a player did in the game. The idea is to always strive to score better than the current highscore, at which point your score becomes the new highscore for the game, which in turn you will try to surpass on future plays.
+A tremendous number of videogames, especially in the past, have used a “highscore” system to give feedback on how well a player did in the game. The idea is to always strive to score better than the current highscore, at which point your score becomes the new highscore for the game, which in turn you will try to surpass on future plays.
 
 There are a few advantages that scoring systems have. Their wide range of outcomes gives good feedback to the player about which strategies are effective or ineffective, and they can also accommodate players of many skill levels, since the extremely good or bad players will be able to notice increases and decreases in score more than marginal winrate gains, like .5% to 1% winrate or 99.6% to 99.9% winrate.
 
