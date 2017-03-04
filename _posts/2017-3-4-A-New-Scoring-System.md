@@ -23,7 +23,15 @@ So, in light of the problems with the traditional highscore systems, we’ve mov
 
 While the goal + ranking system solves all of the problems with the highscore system, it gives worse feedback, since marginal winrate changes are harder to parse than changes in score. It simply gives less feedback on the whole compared to a scoring system, since “did I win: yes/no” is less precise than “how many points did I get?”.
 
-That brings me to another system that I’ve contrived, which I believe has all the best aspects of the highscore system and the goal + ranking system. I call it the score + ranking system, and it entails a match-based structure in which the player scores points and then subsequently the game updates the player’s ranking based on the number of points scored. Each match is assigned difficulty based on the rank that the player had when they entered, just as it is in the goal + ranking system. This solves all of the problems faced by goal + ranking systems and most of the problems faced by the conventional highscore systems.
+That brings me to another system that I’ve contrived, which I believe has all the best aspects of the highscore system and the goal + ranking system. I call it the score + ranking system, and it entails a match-based structure in which the player scores points and then subsequently the game updates the player’s ranking based on the number of points scored. Each match is assigned difficulty based on the rank that the player had when they entered, just as it is in the goal + ranking system. This system has the advantage of finer grained feedback that the highscore system has, and also solves many of its problems:
+
+1. The player is trying to maximize the score, not the probability of passing a certain score threshhold, so it's unlikely that extremely risky strategies would come to dominate like they do in traditional highscore systems.
+
+2. Since there's no highscore in any meaningful sense, the designer can scale the points and set up a score "par" (or score needed to break even on ranking) that keeps match length in check, preventing it from spiraling out of control like it does in highscore systems.
+
+3. Because of the match structure, the game can be designed to challenge the player throughout the match, rather than forcing the player to replay the already-beaten beginning of the game each time they want to play the later parts.
+
+4. Since there's no highscore, there's no question of what to do after the highscore is beaten. Instead, the player can focus on maximizing the expected value of the number of points scored throughout the match, knowing that as long as the game is in progress what they're expected to do is clear.
 
 ### But what about arcs?
 
