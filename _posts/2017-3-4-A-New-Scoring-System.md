@@ -23,7 +23,9 @@ So, in light of the problems with the traditional highscore systems, we’ve mov
 
 While the goal + ranking system solves all of the problems with the highscore system, it gives worse feedback, since marginal winrate changes are harder to parse than changes in score. It simply gives less feedback on the whole compared to a scoring system, since “did I win: yes/no” is less precise than “how many points did I get?”.
 
-That brings me to another system that I’ve contrived, which I believe has all the best aspects of the highscore system and the goal + ranking system. I call it the score + ranking system, and it entails a match-based structure in which the player scores points and then subsequently the game updates the player’s ranking based on the number of points scored. Each match is assigned difficulty based on the rank that the player had when they entered, just as it is in the goal + ranking system. This system has the advantage of finer grained feedback that the highscore system has, and also solves many of its problems:
+That brings me to another system that I’ve contrived, which I believe has all the best aspects of the highscore system and the goal + ranking system. I call it the score + ranking system, and it entails a match-based structure in which the player scores points and then subsequently the game updates the player’s ranking based on the number of points scored. You can think of it in terms of a par: the game has a certain amount of points that you're trying to go over. How many rank points you gain or lose is based on how many more or less points you get relative to the par. Each match is assigned difficulty based on the rank that the player had when they entered, just as it is in the goal + ranking system.
+
+This system has the advantage of finer grained feedback that the highscore system has, and also solves many of its problems:
 
 1. The player is trying to maximize the score, not the probability of passing a certain score threshhold, so it's unlikely that extremely risky strategies would come to dominate like they do in traditional highscore systems.
 
