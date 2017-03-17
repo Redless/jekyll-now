@@ -1,4 +1,10 @@
-Too often, designers of modern strategy games create conflicting incentives by making games with mechanics that don’t lead to their goals.
+
+---
+layout: post
+title: Make Clear Goals
+---
+
+Too often, modern strategy game designers create conflicting incentives by making games with mechanics and goals that don't lead to one another.
 
 Humans usually play games in to enjoy themselves, so it’s of paramount importance to game design that games deliver enjoyment. This can take many forms, and indeed, a single game can produce multiple types of enjoyment. However, many modern games seem scattered in their approach, and while trying to appeal to many different audiences, produce worse results in every category.
 
@@ -15,3 +21,5 @@ If they continue to develop the deck, they make the experience worse for me (onc
 There are two solutions to this problem as I see it. One is to make it clear what type of enjoyment your game is supposed to deliver, and maximizing that as best you can while neglecting other values to drive away players who might interfere with that value. In the case of Heroes of the Storm this is probably the correct approach, since there are already a huge number of games that cater to both the dominator and self-improver camps, as well as the other camps of players who play the game. The second, and more drastic solution is to change the game’s goal to encourage players in all camps to behave in roughly the same way. In Dominion, this could be done by changing the win condition to be based on how spectacular each deck was at the end of the game (quantified somehow), and removing the consideration of when to end the game.
 
 P.S.: another place where this shows up is in Eurogames and their ilk—specifically, such games often have victory points, with the winner as the player who gets the most victory points. Then, there are small but significant things each player can do to deprive the others of victory points. It’s tempting to play these games trying to maximize your own score, but in reality, if there’s a line to take that hurts your opponents slightly, it will sometimes be correct. Since trying to increase your score to the highest possible and trying to be the player with the highest score are such similar goals, differentiating between the two is often difficult. Try not to design your game like that.
+
+Thanks for reading! Come to the [Dinofarm Discord](https://discord.gg/8PPwfDY) or [Dinofarm Forums](http://www.dinofarmgames.com/forum/index.php) to chat with me and other people who care about game design.
