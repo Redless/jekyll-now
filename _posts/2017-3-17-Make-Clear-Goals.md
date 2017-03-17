@@ -1,9 +1,3 @@
-
----
-layout: post
-title: Make Clear Goals
----
-
 Too often, modern strategy game designers create conflicting incentives by making games with mechanics and goals that don't lead to one another.
 
 Humans usually play games in to enjoy themselves, so it’s of paramount importance to game design that games deliver enjoyment. This can take many forms, and indeed, a single game can produce multiple types of enjoyment. However, many modern games seem scattered in their approach, and while trying to appeal to many different audiences, produce worse results in every category.
