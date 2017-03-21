@@ -3,7 +3,7 @@ layout: post
 title: Big Bear Buyout Released!
 ---
 
-I've been working on a game in my spare time for the past 4 months. Today I finished the first version, which you can hopefully download [here](/downloads/BigBearBuyout-v1.zip). Below I've laid out the rules.
+I've been working on a game in my spare time for the past 4 months. Today I finished the first version, which you can download [here](/downloads/BigBearBuyout-v1.zip). Below I've laid out the rules.
 
 Each turn, you'll get a group of 3 bears and a rabbit, and you have to choose where to place them in order to surround the rabbits with the bears. You can rotate the pieces with z and c.
 
