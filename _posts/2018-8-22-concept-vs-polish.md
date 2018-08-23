@@ -1,4 +1,4 @@
-*Contcept and polish are two approaches to creating something or judging a creation. It's helpful to acknowledge your own preferences with respect the two of them, and find a happy medium between them that well matches the task you're working on.*
+*Concept and polish are two approaches to creating something or judging a creation. It's helpful to acknowledge your own preferences with respect the two of them, and find a happy medium between them that well matches the task you're working on.*
 
 ### I
 
