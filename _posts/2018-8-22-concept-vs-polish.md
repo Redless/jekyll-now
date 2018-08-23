@@ -1,4 +1,4 @@
-*Content and polish are two approaches to creating something or judging a creation. It's helpful to acknowledge your own preferences with respect the two of them, and find a happy medium between them that well matches the task you're working on*
+*Contcept and polish are two approaches to creating something or judging a creation. It's helpful to acknowledge your own preferences with respect the two of them, and find a happy medium between them that well matches the task you're working on*
 
 ### I
 
@@ -8,18 +8,18 @@ When we're picking which restaurant to go to, I always prefer ethnic restaurants
 
 I'd rather listen to a song that's particularly well-written but performed averagely than a lukewarm song performed impeccably.
 
-Content and polish are two ways to judge creations. The best works excel at both of them, but these works are not common enough that we can consume them exclusively. We are forced to choose, and I find myself weighting content highest. How important are these things relative to each other in your opinion?
+Contcept and polish are two ways to judge creations. The best works excel at both of them, but these works are not common enough that we can consume them exclusively. We are forced to choose, and I find myself weighting contcept highest. How important are these things relative to each other in your opinion?
 
 ### II
 
-Content and polish also represent two approaches to creating value itself. Someone who values content over polish would toss rock after rock aside, trying to find the brightest jewel of the lot, while polish guy might pick up the first rock he finds and rub it for hours until it shines.
+Contcept and polish also represent two approaches to creating value itself. Someone who values contcept over polish would toss rock after rock aside, trying to find the brightest jewel of the lot, while polish guy might pick up the first rock he finds and rub it for hours until it shines.
 
-Obnoxiously, content-based approaches are required for insight-based problems. When setting out to prove a difficult theorem, a mathematician must have a massive, sudden leap of inspiration (the generation of novel content) to determine which approach will be most effective. Once the basic outline of the proof has been generated, it's very straightforward to fill in the details. This insight barrier is common in g-loaded fields like mathematics.
+Contcept-based approaches are required for insight-based problems. When setting out to prove a difficult theorem, a mathematician must have a massive, sudden leap of inspiration to determine which approach will be most effective. Once the basic outline of the proof has been generated, it's often straightforward to fill in the details. This insight barrier is common in g-loaded fields like mathematics.
 
 Polish-based approaches, on the other hand, are required for tasks that require slow, continuous self improvement. When I'm playing the piano, there is no insight I can have in the space of an afternoon that will make me significantly better at a piece of music, but if I spend several hours every day practicing, I'll find myself improving at that piece over time.
 
 ### III
 
-Note here that someone who's studied math extensively and done many proofs in the past will likely have better intuition for how to deal with whatever proof they're working on at the moment, so diligent self-polish can be quite useful for mathematics in the longer term. Similarly, I need to have certain insights to make my piano practice most effective (focus on making notes legato, devote extra time to a troublesome section, etc.). So although certain tasks may be skewed towards favoring one or the other, almost every task requires some amount of both content and polish.
+Note here that someone who's studied math extensively and done many proofs in the past will likely have better intuition for how to deal with whatever proof they're working on at the moment, so diligent self-polish can be quite useful for mathematics in the longer term. Similarly, I need to have certain conceptual insights to make my piano practice most effective (focus on making notes legato, devote extra time to a troublesome section, etc.). So although certain tasks may be skewed towards favoring one or the other, almost every task requires some amount of both contcept and polish.
 
-When I was trying to improve my social skills, I spent a lot of time reading books about social stuff without applying any of it. My penchant for accumulating a massive amount of ideas without spending any time refining any of their implementations caused me a lot of damage here. The reverse can also happen. Be careful!
+When I was trying to improve my social skills, I spent a lot of time reading books about social stuff without applying any of it. My penchant for accumulating a massive amount of ideas (concept) without spending any time refining any of their implementations (polish) caused me a lot of damage here. The reverse can also happen. Be careful!
