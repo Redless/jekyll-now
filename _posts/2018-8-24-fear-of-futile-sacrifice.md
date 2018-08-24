@@ -1,4 +1,4 @@
-People don't want to get screwed over. Only if someone truly believes that their sacrifices will not be in vain, will they produce their best work.
+*People don't want to get screwed over. Only if someone truly believes that their sacrifices will not be in vain, will they produce their best work.*
 
 ### I
 
