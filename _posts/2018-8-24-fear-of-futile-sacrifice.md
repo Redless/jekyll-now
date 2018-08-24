@@ -8,7 +8,7 @@ Before they made their choices, the contestants could talk to one another, and i
 
 [![Nick Vs Ibrahim](http://img.youtube.com/vi/a7hbjUauHb8/0.jpg)](http://www.youtube.com/watch?v=a7hbjUauHb8)
 
-According to his RadioLab interview, Nick's unique strategy was a result of a sudden realization that he had one day while swimming. The realization is as follows: it's not the hope of taking home all the money that causes people to play defect, it's the fear of their opponent taking home all the money and them getting none. People are afraid that they will make a sacrifice that will end in futility.
+According to his RadioLab interview, Nick's unique strategy was a result of a sudden realization that he had one day while swimming. The realization is as follows: it's not the hope of taking home all the money that causes people to play defect, it's the fear of their opponent taking home all the money and them getting none. People defect because they are afraid that they will make a sacrifice that will end in futility.
 
 ### II
 
@@ -35,6 +35,6 @@ Take advantage of the fear of a futile sacrifice when dealing with others: if yo
 
 In modern society, there are a lot of institutions that are explicitly set up to guarantee that sacrifices will pay off, for example, going to college to study computer science instead of getting a job straight out of high school will almost surely lead to better job prospects down the road. Also, well-adjusted people will usually reciprocate sincere kindness towards them. Of course, not everyone is well-adjusted, and not every major is computer science, but, in general, if something seems like a safe sacrifice to make, it is.
 
-In addition, not every unsafe sacrifice is bad. There are potentially futile sacrfices that it's still in your best interest to make. In this case, I advocate for anticipating what will happen if your sacrifice is futile: often, you will find that the bad result isn't as bad as you might've thought. If you still find the potential for a futile sacrifice to be terrifying, you can consider adopting the belief that a futile sacrifice is impossible anyhow. [It may not be true, but it still might be the most useful belief to have.](https://brianlui.dog/2018/03/20/useful-models-are-better-than-correct-models/)
+In addition, not every unsafe sacrifice is bad. There are potentially futile sacrfices that it's still in your best interest to make. In this case, I advocate for anticipating what will happen if your sacrifice is futile; often, you will find that the bad result isn't as bad as you might've thought. If you still find the potential for a futile sacrifice to be terrifying, you can consider adopting the belief that a futile sacrifice is impossible anyhow. [It may not be true, but it still might be the most useful belief to have.](https://brianlui.dog/2018/03/20/useful-models-are-better-than-correct-models/)
 
 If you do choose to make unsafe sacrifices, you should be very careful, since the downside of wildly making futile sacrifices can be high.
