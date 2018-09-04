@@ -16,9 +16,11 @@ In "Battle Hymn of the Tiger Mother", Amy Chua explains how she raised her child
 
 “If done properly, the Chinese strategy produces a virtuous circle. Tenacious practice, practice, practice is crucial for excellence; rote repetition is underrated in America. Once a child starts to excel at something—whether it’s math, piano, pitching, or ballet—he or she gets praise, admiration, and satisfaction. This builds confidence and makes the once not-fun activity fun. This in turn makes it easier for the parent to get the child to work even more.”
 
-If a child believes that hard work will result in success, and the success in recognition, the bitter pill of the work itself is much easier to swallow. Chua's parenting style attempts to instill this faith in her children by demonstrating it to them as they master an instrument or another talent.
+If a child believes that hard work will result in success, and the success in recognition, the bitter pill of the work itself is much easier to swallow. Chua's parenting style attempts to instill this faith in her children by demonstrating it to them as they master an instrument or another talent. In other words, the style works to convince the child that future sacrifices, like current sacrifices, will not be futile.
 
 Other sacrifices, such as the trust required to pick "split" on "Golden Balls" work the same way. A person will not make them unless they are sure that they will get something valuable in return. In the case of the contestants on "Golden Balls", there was substantial uncertainty about whether or not a sacrifice, in the form of playing "split", would pay off, which lead to the prevalence of "steal".
+
+Kind personalities are in some sense adaptions to make sacrifices seem less futile. If you consider a sacrifice worthwhile when it benefits other people in addition to yourself, you're more likely to make that sacrifice, and sacrificing for others in a group setting is valuable for the group.
 
 ### III
 
@@ -28,6 +30,12 @@ You can also unlink your "commitment to making a sacrifice" from your "belief th
 
 Take advantage of the fear of a futile sacrifice when dealing with others by convincing them that their sacrifices to you will pay off. As Nietzche said, those who have a why can bear any how. Make sure that you address both the possibility of failure at the task itself, and failure to be recognized for it.
 
+On the other side of things, one of the best ways to supercharge an ideology you're trying to spread is to paint the alternative as a futile sacrifice. "The Red Pill", a pick up artist ideology does this impeccably. By portraying conventional dating norms as resulting in men making many sacrifices to women without getting anything in return, TRP rhetoric has appealed to men's fear of futile sacrifices and spread widely.
+
 ### Most mainstream sacrifices aren't futile
 
-In the modern first world, there are a lot of institutions that are explicitly set up to guarantee that sacrifices will pay off. For example, going to college to study computer science instead of getting a job straight out of high school will almost surely lead to better job prospects down the road in spite of the lower income in the short term. Sacrifices made to your future are not the only kind that are set up to pay off, either; well-adjusted people will usually reciprocate sincere kindness towards them or reward people who have a reputation for kindness or trustworthiness. So, take the outside view and have faith when deciding which sacrifices to make.
+In contrast to futile sacrifices, people gather around worthwhile sacrifices like moths to a flame. As a result, opportunities to make these sacrifices are well publicized. For example, it's become common knowledge that regular exercise, in spite of being short-term unpleasant, is long-term beneficial and thus a worthwhile sacrifice to make.
+
+In other cases, institutions have been set up explicitly to provide worthwhile sacrifices. For example, going to college to study computer science instead of getting a job straight out of high school will almost surely lead to better job prospects down the road in spite of the lower income in the short term.
+
+Sacrifices made to your future are not the only kind that are set up to pay off, either; well-adjusted people will usually reciprocate sincere kindness towards them or reward people who have a reputation for kindness or trustworthiness. So, take the outside view and have faith when deciding which sacrifices to make.
