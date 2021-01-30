@@ -62,9 +62,9 @@ After you've done one of these openings, if you don't kill them all the way just
 
 #### Plan B: Chump block a ton and win with They Who Endure
 
-The other thing that this deck has is tons of small bodies (called "chump blockers") to keep your nexus safe. Your 1-2 drops as mentioned above can contest most aggro decks by blocking in the early game and thus freezing out most hyper aggro openers. This also works in the later game vs most decks that don't have elusive or overwhelm to get around them, meaning that as long as you don't care that you're slowly losing the board you can keep your nexus very safe. Because this strategy can drastically slow down the rate at which you lose nexus health while also killing off tons of your own units, you can play They Who Endure after stalling this way and then close the game with it (and Atrocity if needed). Be sure to make your They Who Endure as big as possible by killing off your own units even for seemingly no reason (ie. playing Blighted Caretaker even after attack token is used up, butchering your own Butcher etc.) but also play They Who Endure as soon as you can to prevent your opponent from finding a counter (such as healing, removal, or a high health blocker).
+The other thing that this deck has is tons of small bodies (called "chump blockers") to keep your nexus safe. Your 1-2 drops as mentioned above can contest most aggro decks by blocking in the early game and thus freezing out most hyper aggro openers. This also works in the later game vs most decks that don't have elusive or overwhelm to get around them, meaning that as long as you don't care that you're slowly losing the board you can keep your nexus very safe. Because this strategy can drastically slow down the rate at which you lose nexus health while also killing off tons of your own units, you can play They Who Endure after stalling this way and then close the game with it (and Atrocity if needed).
 
-You should not hesitate to play linear combinationss of these two strategies, by the way. No need to stick to extremes. If you can make plays from both sides, then that's even stronger.
+Be sure to make your They Who Endure as big as possible by killing off your own units even for seemingly no reason (ie. playing Blighted Caretaker even after attack token is used up, butchering your own Butcher etc.) but also play They Who Endure as soon as you can to prevent your opponent from finding a counter (such as healing, removal, or a high health blocker). You shouldn't recklessly kill off your own units if you think they would be useful after your opponent survives your They Who Endure, also.
 
 ## Tips and tricks:
 
@@ -72,8 +72,7 @@ Glimpse Beyond can be used to dodge combo centric win conditions like Fiora and 
 
 Stalking Shadows is the only burst speed spell in the deck, and it's also one of the only spells in the deck, period. As such, you should often save it to combo-enable Doombeast, which can otherwise get stranded. Ignore this as needed.
 
-If you have 4 units, you can get full value off of Blighted Caretaker by killing a minion that won't summon another (so not Cursed Keeper or Hapless Aristocrat). If you have 3 units you can kill a Keeper or Aristocrat instead, filling your board. Sometimes you should break your Keeper open even if you have 4 units, but you should be thinking ahead if you plan to play Caretaker so that you aren
-tput in this position if you don't want to be.
+If you have 4 units, you can get full value off of Blighted Caretaker by killing a minion that won't summon another (so not Cursed Keeper or Hapless Aristocrat). If you have 3 units you can kill a Keeper or Aristocrat instead, filling your board. Sometimes you should break your Keeper open even if you have 4 units, but you should be thinking ahead if you plan to play Caretaker so that you aren't put in this position if you don't want to be.
 
 It's right to attack with Kalista and Barkbeast last in line, since they can increase their power if things die. This is important for the Specter -> Barkbeast opener.
 
