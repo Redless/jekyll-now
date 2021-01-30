@@ -104,7 +104,7 @@ Some people don't run this card. If you look at my "Plan A" section, you can und
 
 __Battle Rage:__
 
-This card has convinced me of its place as a second finisher. You almost always have a wider board than your opponents, and you almost always want to push damage. Battle Rage lets you convert unblocked units into big damage. Battle Rage after open attacking on turns 5-6 wins games. Like They Who Endure, it gets countered by Hush, but that's one less Hush they have at their disposal. Some people would say that this card is a "flex slot" but I just think it's a "flex". Ha ha.
+This card has convinced me of its place as a second finisher. You almost always have a wider board than your opponents, and you almost always want to push damage. Battle Rage lets you convert unblocked units into big damage. Like They Who Endure, it gets countered by Hush, but that's one less Hush they have at their disposal. Some people would say that this card is a "flex slot" but I just think it's a "flex". Ha ha.
 
 __Wraithcaller:__
 
