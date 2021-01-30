@@ -35,7 +35,7 @@ I took this decklist from [Swim's website](https://www.swimstrim.com/runeterra/d
 
 There are two primary strategies for winning with the deck. Try for a busted opener, but you may have to play more defensively for the combo depending on your hand.
 
-Plan A: Nut draw and blow them out turns 1-2
+#### Plan A: Nut draw and blow them out turns 1-2
 
 These days a lot of decks don't run well-statted one and two drops. But Endure Aggro runs the most explosive 1 and 2 drops in the game, so you can sneak in a massive board advantage and do loads of nexus damage before your opponent can respond. Specifically, these four units will allow you to explode on most decks if you can draw the right combination of them.
 
@@ -60,7 +60,7 @@ You should mulligan aggressively for the first four of these openings. Besides t
 
 After you've done one of these openings, if you don't kill them all the way just by using the wideness of your board to force damage, you have a few ways to finish things off. You can drop Kalista, level her, and grind your opponent out on the board (but sometimes she's better used as just another body in a wide board). You can drop Blighted Caretaker which will widen your board by two at least and challenge two opposing blockers, letting you shove damage more effectively. Or you can, on turns 5-6, (open) attack with a wide board and Battle Rage (+8/+4) whoever they don't block to effectively force 8 more burn. If that doesn't win you the game, you can chip them out with Doombeasts or procede to plan B.
 
-Plan B: Chump block a ton and win with They Who Endure
+#### Plan B: Chump block a ton and win with They Who Endure
 
 The other thing that this deck has is tons of small bodies (called "chump blockers") to keep your nexus safe. Your 1-2 drops as mentioned above can contest most aggro decks by blocking in the early game and thus freezing out most hyper aggro openers. This also works in the later game vs most decks that don't have elusive or overwhelm to get around them, meaning that as long as you don't care that you're slowly losing the board you can keep your nexus very safe. Because this strategy can drastically slow down the rate at which you lose nexus health while also killing off tons of your own units, you can play They Who Endure after stalling this way and then close the game with it (and Atrocity if needed). Be sure to make your They Who Endure as big as possible by killing off your own units even for seemingly no reason (ie. playing Blighted Caretaker even after attack token is used up, butchering your own Butcher etc.) but also play They Who Endure as soon as you can to prevent your opponent from finding a counter (such as healing, removal, or a high health blocker).
 
