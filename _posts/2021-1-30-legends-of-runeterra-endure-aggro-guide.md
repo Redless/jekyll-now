@@ -1,10 +1,10 @@
 *Endure Aggro is a powerful deck with a unique playstyle that isn't popular on the ladder. It combines a synergistic and explosive early game with a massive and satisfying finisher. This guide will explain the deck on a conceptual level and prepare you to use it with resounding success on the ladder.*
 
-### Who am I?
+## Who am I?
 
 I started playing Runeterra in mid December 2020 and Endure Aggro was one of the first decks I crafted. I used Endure Aggro during my pushes from plat 1 to diamond 4 and from diamond 1 to masters, so I've used the deck a lot and seen success with it at mid level, even though I'm a newer player at the game as a whole. I took this list in particular from [Swim's website](https://www.swimstrim.com/runeterra/decks-and-meta), but it's not the current version that he has up there. I think this version is better though.
 
-### What is Endure Aggro and why should I play it?
+## What is Endure Aggro and why should I play it?
 
 Endure Aggro takes advantage of SI's "kill your own units" package (Ravenous Butcher, Cursed Keeper, Barkbeast, etc.) to set up extremely powerful openings while They Who Endure, a Freljord 7-drop, forms the core of the lategame. They Who Endure is a 1/1 overwhelm unit that gains +1/+1 for every friendly unit that has died, meaning that the unit sacrifice went on in the early-mid game can lead to a very high power overwhelm attack (or Atrocity) to finish opponents off.
 
@@ -21,7 +21,7 @@ Here is its weakness:
 
 - its finisher is hard countered by "Hush"
 
-### A closer look at the deck
+## A closer look at the deck
 
 ![Image of Deck](https://raw.githubusercontent.com/redless/redless.github.io/master/images/endure.png)
 
@@ -31,17 +31,17 @@ importable: CECAGAYFAQDA6BIBAUFR4MBRGUBAEBIEAYAQCAJCAIBACBIZFAAQCAIFAEAQCBJL
 
 I took this decklist from [Swim's website](https://www.swimstrim.com/runeterra/decks-and-meta), but it's not the current version of Endure Aggro that he's featuring, and I think this version is better than the one he's featuring.
 
-### How do I win games with the deck?
+## How do I win games with the deck?
 
 There are two primary strategies for winning with the deck. Try for a busted opener, but you may have to play more defensively for the combo depending on your hand.
 
 Plan A: Nut draw and blow them out turns 1-2
-These days deck after deck doesn't run good one and two drops, because they all want to bank the spell mana instead. But Endure Aggro runs the most explosive 1 and 2 drops in the game, so you can sneak in a massive board advantage and do loads of nexus damage before your opponent can respond. Specifically, these four units will allow you to explode on most decks if you can draw the right combinations of them.
+These days a lot of decks don't run well-statted one and two drops. But Endure Aggro runs the most explosive 1 and 2 drops in the game, so you can sneak in a massive board advantage and do loads of nexus damage before your opponent can respond. Specifically, these four units will allow you to explode on most decks if you can draw the right combinations of them.
 
-- __Pesky Specter
-- Barkbeast
-- Ravenous Butcher
-- Cursed Keeper__
+- __Pesky Specter__
+- __Barkbeast__
+- __Ravenous Butcher__
+- __Cursed Keeper__
 
 The openings you should be aiming for are:
 
@@ -64,7 +64,7 @@ The other thing that this deck has is tons of small bodies (called "chump blocke
 
 You should not hesitate to play "linear combinations" of these two strategies, by the way. No need to stick to extremes. If you can make plays from both sides then that's even stronger.
 
-### Tips and tricks:
+## Tips and tricks:
 
 Glimpse Beyond can be used to dodge combo centric win conditions like Fiora and Lee Sin if you kill off the ally that they're challenging. This is useful when it's time to stall.
 
@@ -76,11 +76,11 @@ It's right to attack with Kalista and Barkbeast last in line, since they can inc
 
 13 mana is how much you need to play They Who Endure and Atrocity on one turn, and it's also how much you can have on turn 10 and after if you bank 3 spell mana.
 
-### Thanks for reading!
+## Thanks for reading!
 
 I hope you learned something from this guide. I've had a lot of fun with this deck as it's carried me up the ladder, and this is also something I wish for you.
 
-### Appendix: Flex slots
+## Appendix: Flex slots
 
 Let's look at some of the worst cards in the deck and the best cards not in the deck. Can they be exchanged for one another to improve the deck? I don't think so, and here's why.
 
