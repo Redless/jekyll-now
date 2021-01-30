@@ -26,6 +26,7 @@ Here is its weakness:
 ![Image of Deck](https://raw.githubusercontent.com/redless/redless.github.io/master/images/endure.png)
 
 [mobalytics](https://lor.mobalytics.gg/decks/c0ak0mjs0sm84iv3j42g)
+
 importable: CECAGAYFAQDA6BIBAUFR4MBRGUBAEBIEAYAQCAJCAIBACBIZFAAQCAIFAEAQCBJL
 
 I took this decklist from [Swim's website](https://www.swimstrim.com/runeterra/decks-and-meta), but it's not the current version of Endure Aggro that he's featuring, and I think this version is better than the one he's featuring.
@@ -38,11 +39,8 @@ Plan A: Nut draw and blow them out turns 1-2
 These days deck after deck doesn't run good one and two drops, because they all want to bank the spell mana instead. But Endure Aggro runs the most explosive 1 and 2 drops in the game, so you can sneak in a massive board advantage and do loads of nexus damage before your opponent can respond. Specifically, these four units will allow you to explode on most decks if you can draw the right combinations of them.
 
 __- Pesky Specter
-
 - Barkbeast
-
 - Ravenous Butcher
-
 - Cursed Keeper__
 
 The openings you should be aiming for are:
