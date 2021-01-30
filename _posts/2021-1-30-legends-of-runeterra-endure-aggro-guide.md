@@ -62,7 +62,7 @@ After you've done one of these openings, if you don't kill them all the way just
 
 #### Plan B: Chump block a ton and win with They Who Endure
 
-The other thing that this deck has is tons of small bodies (called "chump blockers") to keep your nexus safe. Your 1-2 drops as mentioned above can contest most aggro decks by blocking in the early game and thus freezing out most hyper aggro openers. This also works in the later game vs most decks that don't have elusive or overwhelm to get around them, meaning that as long as you don't care that you're slowly losing the board you can keep your nexus very safe. Because this strategy can drastically slow down the rate at which you lose nexus health while also killing off tons of your own units, you can play They Who Endure after stalling this way and then close the game with it (and Atrocity if needed).
+The other thing that this deck has is tons of small bodies (called "chump blockers") to keep your nexus safe. Your 1-2 drops as mentioned above can contest most aggro decks by blocking in the early game and thus freezing out most hyper aggro openers. This also works in the later game vs most decks that don't have elusive or overwhelm to get around them, meaning that as long as you don't care that you're slowly losing card advantage you can keep your nexus very safe. Because this strategy can drastically slow down the rate at which you lose nexus health while also killing off tons of your own units, you can play They Who Endure after stalling this way and then close the game with it (and Atrocity if needed).
 
 Be sure to make your They Who Endure as big as possible by killing off your own units even for seemingly no reason (ie. playing Blighted Caretaker even after attack token is used up, butchering your own Butcher etc.) but also play They Who Endure as soon as you can to prevent your opponent from finding a counter (such as healing, removal, or a high health blocker). You shouldn't recklessly kill off your own units if you think they would be useful after your opponent survives your They Who Endure, also.
 
@@ -110,7 +110,7 @@ This card has convinced me of its place as a second finisher. You almost always 
 
 __Wraithcaller:__
 
-This is a higher-end guy you can run. It's great value, two bodies, and it can be very strong if you levelup Kalista and then summon it over and over again. But it's worse if you run Battle Rage because it needs SI allegiance, and it's also a card that gets better the more of it you run. I am not sure about this card.
+This is a higher-end guy you can run. It's great value, two bodies, and it can be very strong if you level up Kalista and then summon it over and over again. But it's worse if you run Battle Rage because it needs SI allegiance, and it's also a card that gets better the more of it you run. I am not sure about this card.
 
 __Splinter Soul:__
 
