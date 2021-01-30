@@ -2,7 +2,7 @@
 
 ### Who am I?
 
-I started playing Runeterra in mid December 2020 and Endure Aggro was one of the first decks I crafted. I used Endure Aggro during my pushes from plat 1 to diamond 4 and from diamond 1 to masters, so I've used the deck a lot and seen success with it at mid level, even though I'm a newer player at the game as a whole. I took this list in particular from Swim's website (link), but it's not the current version that he has up there. I think this version is better though.
+I started playing Runeterra in mid December 2020 and Endure Aggro was one of the first decks I crafted. I used Endure Aggro during my pushes from plat 1 to diamond 4 and from diamond 1 to masters, so I've used the deck a lot and seen success with it at mid level, even though I'm a newer player at the game as a whole. I took this list in particular from [Swim's website](https://www.swimstrim.com/runeterra/decks-and-meta), but it's not the current version that he has up there. I think this version is better though.
 
 ### What is Endure Aggro and why should I play it?
 
@@ -23,12 +23,12 @@ Here is its weakness:
 
 ### A closer look at the deck
 
-Image of the deck here
+![Image of Deck](https://raw.githubusercontent.com/redless/redless.github.io/master/images/endure.png)
 
-mobalytics:
-importable:
+[mobalytics](https://lor.mobalytics.gg/decks/c0ak0mjs0sm84iv3j42g)
+importable: CECAGAYFAQDA6BIBAUFR4MBRGUBAEBIEAYAQCAJCAIBACBIZFAAQCAIFAEAQCBJL
 
-I took this decklist from Swim's website (link), but it's not the current version of Endure Aggro that he's featuring, and I think this version is better than the one he's featuring.
+I took this decklist from [Swim's website](https://www.swimstrim.com/runeterra/decks-and-meta), but it's not the current version of Endure Aggro that he's featuring, and I think this version is better than the one he's featuring.
 
 ### How do I win games with the deck?
 
