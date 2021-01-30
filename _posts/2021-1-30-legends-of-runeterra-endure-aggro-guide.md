@@ -38,7 +38,7 @@ There are two primary strategies for winning with the deck. Try for a busted ope
 Plan A: Nut draw and blow them out turns 1-2
 These days deck after deck doesn't run good one and two drops, because they all want to bank the spell mana instead. But Endure Aggro runs the most explosive 1 and 2 drops in the game, so you can sneak in a massive board advantage and do loads of nexus damage before your opponent can respond. Specifically, these four units will allow you to explode on most decks if you can draw the right combinations of them.
 
-__- Pesky Specter
+- __Pesky Specter
 - Barkbeast
 - Ravenous Butcher
 - Cursed Keeper__
