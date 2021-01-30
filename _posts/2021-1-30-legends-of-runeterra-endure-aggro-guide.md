@@ -37,25 +37,25 @@ There are two primary strategies for winning with the deck. Try for a busted ope
 Plan A: Nut draw and blow them out turns 1-2
 These days deck after deck doesn't run good one and two drops, because they all want to bank the spell mana instead. But Endure Aggro runs the most explosive 1 and 2 drops in the game, so you can sneak in a massive board advantage and do loads of nexus damage before your opponent can respond. Specifically, these four units will allow you to explode on most decks if you can draw the right combinations of them.
 
-Pesky Specter
+__- Pesky Specter
 
-Barkbeast
+- Barkbeast
 
-Ravenous Butcher
+- Ravenous Butcher
 
-Cursed Keeper
+- Cursed Keeper__
 
 The openings you should be aiming for are:
 
-__Barkbeast -> Specter__ (4 damage and a 3/3 on turn 1, good)
+- __Barkbeast -> Specter__ (4 damage and a 3/3 on turn 1, good)
 
-__Barkbeast -> Specter -> Butcher__ (6 damage, a 3/2, and a 3/3 on turn 1, great)
+- __Barkbeast -> Specter -> Butcher__ (6 damage, a 3/2, and a 3/3 on turn 1, great)
 
-__Keeper -> Butcher__ (7 damage, a 4/3, and a 3/2 on turn 2, good)
+- __Keeper -> Butcher__ (7 damage, a 4/3, and a 3/2 on turn 2, good)
 
-__Barkbeast -> Keeper -> Butcher__ (10 damage, a 4/3, 3/2, and 3/3 on turn 2, great)
+- __Barkbeast -> Keeper -> Butcher__ (10 damage, a 4/3, 3/2, and 3/3 on turn 2, great)
 
-__Specter -> Butcher__ (3 damage and a 3/2 on turn one, relatively bad but sometimes ya gotta)
+- __Specter -> Butcher__ (3 damage and a 3/2 on turn one, relatively bad but sometimes ya gotta)
 
 You should mulligan aggressively for the first four of these openings. Besides these cards, you should also be looking out for Elise, since she's the best two drop that doesn't require a two-card combo (I usually keep Elise unless I already have something nuts to do on turn 2). You should not be hesitant to develop instead of open attacking on turns 2 and 3, since you can usually get more presence than other decks with your mana on those turns.
 
