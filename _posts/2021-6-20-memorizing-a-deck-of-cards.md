@@ -21,3 +21,5 @@ One thing I noticed which surprised me is how much faster I got at recalling the
 ## Why?
 
 This skill is mostly useless and after the novelty of doing it like five times without looking at my sheet I got bored of it and haven't done it in like 3 months. If I did it again I would make a new cheat sheet and associations based on something easier to memorize, maybe an ordered category since the hearts were so much faster than the other suits. I think it would be fucking sick and make me look like a genius if I just happened to memorize a complicated card order when I was randomly playing a cardgame in a social setting, so that's the main reason I would ever practice this skill. But I'm never going to play a cardgame unless someone forces me to so I probably never will.
+
+The memory palace by itself is extremely useful, though. If I take 15 seconds to conjure up a vivid image that represents whatever I was thinking about, it's just as good as writing a note to myself. This is an extremely powerful life hack so far.
